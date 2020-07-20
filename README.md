@@ -10,7 +10,6 @@
   <img align="left" alt="gurusabarish | Linkedin" width="21px" src="https://raw.githubusercontent.com/gurusabarish/gurusabarish/master/assets/linked.svg" />
 </a>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=gurusabarish alt="GuruSabarish"/>
 
 <br />
 <br />
