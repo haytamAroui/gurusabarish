@@ -13,16 +13,17 @@
 
 <br />
 <br />
-- 🌱 I’m currently learning Java & JavaScript
-- 💬 Ask me about anything [here](https://github.com/gurusabarish/gurusabarish/issues)
+- 🌱 I’m currently learning Java & JavaScript<br />
+- 💬 Ask me about anything [here](https://github.com/gurusabarish/gurusabarish/issues)<br />
 <br />
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+<br />
 
 <a href="https://github.com/gurusabarish/gurusabarish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&show_icons=true&theme=radical"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/gurusabarish/gurusabarish">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&show_icons=true&theme=radical"  />
 </a>
 
 <a href="https://github.com/gurusabarish/kaggle-datasets">
