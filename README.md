@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif" width="350px" />
+<img src="https://i.imgur.com/8MupZHY.gif" width="500px" />
 <br>
 
 # Hi there, I am Guru Sabarish 👋
