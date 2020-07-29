@@ -1,6 +1,8 @@
 
 <div align="center">
-<img src="https://i.imgur.com/8MupZHY.gif"  />
+<a href="https://github.com/gurusabarish/gurusabarish">
+  <img src="https://i.imgur.com/8MupZHY.gif"  />
+</a>
 <br>
 
 # Hi there, I am Guru Sabarish 👋
