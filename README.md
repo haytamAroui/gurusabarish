@@ -12,7 +12,7 @@
 <br>
 <!-- If you forked this repo, Change the username as yours -->
 <a href="https://github.com/gurusabarish/gurusabarish">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gurusabarish&show_icons=true&include_all_commits=true&theme=radical" alt="guru sabarish" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="gurusabarish" />    
 </a>
 <br>
 </div>
