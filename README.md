@@ -1,9 +1,6 @@
 
 <div align="center">
-<a href="https://github.com/gurusabarish/gurusabarish">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
-</a>
-  
+
 ## Hi there, I am Guru Sabarish 👋
 
 #### You can find me on:
