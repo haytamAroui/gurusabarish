@@ -3,6 +3,8 @@
 
 ## Hi there, I am Guru Sabarish 👋
 
+![](https://komarev.com/ghpvc/?username=gurusabarish)
+
 #### You can find me on:
 [Linkedin](https://www.linkedin.com/in/gurusabarish) - [Stackoverflow](https://stackoverflow.com/users/13542935/guru-sabarish) - [Medium](https://gurusabarish.medium.com) - [Instagram](https://instagram.com/gurusabarishh) - [Twitter](https://twitter.com/gurusabarishh)
 
