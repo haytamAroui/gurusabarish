@@ -9,7 +9,7 @@
   
  ### Hi, I'm Gurusabarish, a passionate web app developer.
  
-- 🔭 I’m currently working on [cowin tracker](https://github.com/gurusabarish/#), [Datastats](https://github.com/gurusabarish/#) 
+- 🔭 I’m currently working on [cowin tracker](https://github.com/gurusabarish/cowin-notifier), [Datastats](https://github.com/gurusabarish/#) 
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on [Hugo profile](https://github.com/gurusabarish/hugo-profile)
 - 💬 Ask me about anything [here](https://github.com/gurusabarish/gurusabarish/issues)
