@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Hi there 👋, I am Guru Sabarish, A passionate web app developer.
+## Hi there 👋, I am [Guru Sabarish](https://gurusabarish.tech), A passionate web app developer.
 
 ![](https://komarev.com/ghpvc/?username=gurusabarish)
 
