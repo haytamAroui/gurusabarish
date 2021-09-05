@@ -8,7 +8,7 @@
 
 
  #### You can find me on:
-[Linkedin](https://www.linkedin.com/in/gurusabarish) - [Mail](mailto:gurusabarisha@gmail.com) - [Instagram](https://instagram.com/gurusabarishh) - [Twitter](https://twitter.com/gurusabarishh)
+[Linkedin](https://www.linkedin.com/in/gurusabarish) - [Instagram](https://instagram.com/gurusabarishh) - [Twitter](https://twitter.com/gurusabarishh)
 
   
  <br>
