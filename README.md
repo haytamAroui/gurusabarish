@@ -8,7 +8,7 @@
 
 
  #### You can find me on:
-[Linkedin](https://www.linkedin.com/in/haytamaroui) - [Instagram](https://instagram.com/haytamaroui) - [Twitter](https://twitter.com/haytamaroui)
+[Linkedin](https://www.linkedin.com/in/haytam-aroui/) - [Instagram](https://www.instagram.com/haytam.aroui/) - [Twitter](https://twitter.com/haytamaroui)
 
   
  <br>
