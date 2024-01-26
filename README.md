@@ -13,8 +13,8 @@
   
  <br>
 <!-- If you forked this repo, Change the username as yours -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=3" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gurusabarish&theme=radical&line_height=27&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haytamaroui&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haytamaroui&theme=radical&line_height=27&rank_icon=github" />
    
 <br>
 </div>
